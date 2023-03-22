@@ -6,7 +6,7 @@ pascal_triangle = __import__('0-pascal_triangle').pascal_triangle
 
 def print_triangle(triangle):
     """
-    print triangle
+    print the triangle
     """
 
     for row in triangle:
